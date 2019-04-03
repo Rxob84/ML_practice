@@ -55,3 +55,5 @@ with g.as_default():
 
 print(x.graph is tf.get_default_graph())
 print(x2.graph is tf.get_default_graph())
+
+print("this is new change")
