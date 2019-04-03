@@ -57,3 +57,6 @@ print(x.graph is tf.get_default_graph())
 print(x2.graph is tf.get_default_graph())
 
 print("this is new change")
+
+print("this is new change2 from house with Mac book")
+
